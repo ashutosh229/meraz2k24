@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://meraz2k24.in/sitemap.xml

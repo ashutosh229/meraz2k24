@@ -1,0 +1,29 @@
+[
+	{
+		"title": "Pronites",
+		"events": [
+			{
+				"name": "Antara Mitra",
+				"image": "Antara-Mitra.png",
+				"eventDate": "17 March 2024",
+				"eventTime": "Time: TBA",
+				"eventLocation": "Pronite Stage"
+			},
+			{
+				"name": "Vivek Samtani",
+				"image": "vivek.webp",
+				"eventDate": "17 March 2024",
+				"eventTime": "Time: TBA",
+				"eventLocation": "Pronite Stage"
+			},
+			{
+				"name": "Qafila",
+				"image": "qafila.png",
+				"eventDate": "16 March 2024",
+				"eventTime": "Time: TBA",
+				"eventLocation": "Pronite Stage"
+			}
+		]
+	}
+]
+

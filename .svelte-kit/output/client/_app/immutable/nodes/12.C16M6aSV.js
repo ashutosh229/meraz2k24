@@ -1,0 +1,16 @@
+import{s as N,e as i,a as w,l as T,c as o,f as s,g as k,b as I,u as x,m as e,h as c,i as L,n as S}from"../chunks/scheduler.CELf-BBk.js";import{S as K,i as C,c as M,a as q,m as D,t as E,b as H,d as O}from"../chunks/index.th4lOInj.js";import{S as P}from"../chunks/SectionHeader.noMTXUhh.js";/* empty css                                                                */function V($){let l,p,n,f,d,v,h,r,u,b,m,z=`1) IIT Bhilai organizing the event as specified in the website, any
+			individual participating in any event in Meraz 5.0 in any form, online or offline, is
+			required to accept these Terms &amp; condition.<br class="svelte-1fz9psl"/><br class="svelte-1fz9psl"/>
+			
+			2) No refund will be eligible in case of no show where the participant arrives
+			late or does not turn up for the event.<br class="svelte-1fz9psl"/><br class="svelte-1fz9psl"/>
+			
+			3) Only the registered participant can attend the event.
+			Replacement or substitution is not allowed.<br class="svelte-1fz9psl"/><br class="svelte-1fz9psl"/>
+			
+			4) No refunds will be eligible to any individual if the event conducted is not
+			up to the satisfaction or expectation of the participant.<br class="svelte-1fz9psl"/><br class="svelte-1fz9psl"/>
+			
+			5) In case event is cancelled or postponed, fully or partially,
+			should this occur, the revised schedule will be informed to you. The amount
+			will not be refunded back under any circumstances.`,g;return u=new P({props:{name:"Terms & Conditions"}}),{c(){l=i("link"),p=i("link"),n=i("link"),f=i("link"),d=i("link"),v=w(),h=i("div"),r=i("div"),M(u.$$.fragment),b=w(),m=i("p"),m.innerHTML=z,this.h()},l(t){const a=T("svelte-1bhelqx",document.head);l=o(a,"LINK",{rel:!0,href:!0,class:!0}),p=o(a,"LINK",{rel:!0,href:!0,class:!0}),n=o(a,"LINK",{rel:!0,href:!0,crossorigin:!0,class:!0}),f=o(a,"LINK",{href:!0,rel:!0,class:!0}),d=o(a,"LINK",{href:!0,rel:!0,class:!0}),a.forEach(s),v=k(t),h=o(t,"DIV",{class:!0});var _=I(h);r=o(_,"DIV",{class:!0});var y=I(r);q(u.$$.fragment,y),b=k(y),m=o(y,"P",{class:!0,"data-svelte-h":!0}),x(m)!=="svelte-1hapa2d"&&(m.innerHTML=z),y.forEach(s),_.forEach(s),this.h()},h(){document.title="T&C | Meraz'24",e(l,"rel","stylesheet"),e(l,"href","https://fonts.googleapis.com/css?family=Lato"),e(l,"class","svelte-1fz9psl"),e(p,"rel","preconnect"),e(p,"href","https://fonts.googleapis.com"),e(p,"class","svelte-1fz9psl"),e(n,"rel","preconnect"),e(n,"href","https://fonts.gstatic.com"),e(n,"crossorigin",""),e(n,"class","svelte-1fz9psl"),e(f,"href","https://fonts.googleapis.com/css2?family=DotGothic16&family=Oswald:wght@500&family=Silkscreen&display=swap"),e(f,"rel","stylesheet"),e(f,"class","svelte-1fz9psl"),e(d,"href","https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap"),e(d,"rel","stylesheet"),e(d,"class","svelte-1fz9psl"),e(m,"class","guidelines svelte-1fz9psl"),e(r,"class","content svelte-1fz9psl"),e(h,"class","svelte-1fz9psl")},m(t,a){c(document.head,l),c(document.head,p),c(document.head,n),c(document.head,f),c(document.head,d),L(t,v,a),L(t,h,a),c(h,r),D(u,r,null),c(r,b),c(r,m),g=!0},p:S,i(t){g||(E(u.$$.fragment,t),g=!0)},o(t){H(u.$$.fragment,t),g=!1},d(t){t&&(s(v),s(h)),s(l),s(p),s(n),s(f),s(d),O(u)}}}class j extends K{constructor(l){super(),C(this,l,null,V,N,{})}}export{j as component};

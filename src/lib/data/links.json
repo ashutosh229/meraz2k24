@@ -1,0 +1,11 @@
+[
+	{ "text": "Home", "href": "/" },
+	{ "text": "Events", "href": "/events" },
+	{ "text": "Accommodation", "href": "https://forms.gle/PvQkMdnc3VjdCStT9" },
+	{ "text": "Sponsors", "href": "/sponsors" }, 
+	{ "text": "Startups", "href": "/startup" },
+	{ "text": "About", "href": "/about" },
+	{ "text": "Timeline", "href": "/timeline" },
+	{ "text": "Contact", "href": "/contact" }
+]
+

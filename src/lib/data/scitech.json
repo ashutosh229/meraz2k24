@@ -1,0 +1,389 @@
+[
+	{
+		"id": "genai-image-challenge",
+		"name": "Pixel Perfect",
+		"poster": "Image-not-found.png",
+		"registerURL": "#",
+		"description": "In this fun and creative challenge, participants will be provided with a target image. Using specified AI image generation tools, they must recreate an image as close to the original as possible, within a limited number of prompts and without using specific restricted phrases.",
+		"tagline": "Unleash Creativity, Match the Image!",
+		"prizePool": 10000,
+		"mode": "Online",
+		"club": "DSAI Club",
+		"rulebook": "https://docs.google.com/document/d/1B97m1-ruw51L0RuWLMLXeD3d7aXlpZCYkDT-oBpZe3M/edit?usp=sharing",
+		"location": "IIT Bhilai",
+		"POCs": [
+		    {
+		        "name": "Nishant Verma",
+		        "contact": "9670004551"
+		    },
+		    {
+		        "name": "Vedant Marodkar",
+		        "contact": "9075250152"
+		    }
+		]
+	},
+ {
+    "id": "Electronics_Enigma",
+    "name": "Electronics Enigma",
+    "poster": "Image-not-found.png",
+    "registerURL": "#",
+    "description": "Online quiz will be conducted related to electronics and technology. Certain questions related to electronics, communication systems and technology will be asked. Participants have to answer the question by choosing the options given under a certain time limit",
+    "tagline":"Discover the pulse of Electronics !",
+    "prizePool": 12000,
+    "mode": "Online",
+    "club": "ElectroMos",
+    "rulebook":"#",
+    "location": "IIT Bhilai",
+    "POCs":[
+       {
+         "name": "Ayush Kumar",
+         "contact": "9279199099"
+       },
+       {
+         "name": "Omendra Upadhyay",
+         "contact": "8247589701"
+       } 
+    ]
+  },
+
+
+
+
+ {
+    "id": "TTF",
+    "name": "Tech and Tinker Fusion",
+    "poster": "Image-not-found.png",
+    "registerURL": "#",
+    "description": "A hackathon will be conducted in offline mode, where participants will be given a problem statement and asked to solve using a particular software. Based on optimisation, time and complexity the top-3 winner will be chosen. The domain of problem statement and software will be declared before the hackathon",
+    "tagline":"Discover the pulse of Electronics !",
+    "prizePool": 12000,
+    "mode": "Offline",
+    "club": "ElectroMos",
+    "rulebook":"#",
+    "location": "IIT Bhilai",
+    "POCs":[
+       {
+         "name": "Divit Sharma",
+         "contact": "9109340021"
+       },
+       {
+         "name": "Omendra Upadhyay",
+         "contact": "8247589701"
+       } 
+    ]
+  },
+
+
+{
+    "id": "cosmotheater",
+    "name": "Cosmotheater",
+    "poster": "Image-not-found.png",
+    "registerURL": "#",
+    "description": "The Cosmotheater is a state-of-the-art facility designed to immerse visitors in the wonders of the universe through captivating visual experiences and educational programming. Combining elements of a traditional theater with the expansive knowledge of astronomy, a cosmotheater serves as a dynamic hub for exploring celestial phenomena, the cosmos, and our place within it.",
+    "tagline":"Explore the Universe, Experience the Wonder.",
+    "prizePool": 0,
+    "mode": "offline",
+    "club": "Space Exploration Society",
+    "rulebook":"#",
+    "location": "TBD",
+    "POCs":[
+       {
+         "name": "Aviral Saxena",
+         "contact": "9755733558"
+       },
+       {
+         "name": "Ajay Chikate",
+         "contact": "9021500970"
+       } 
+    ]
+  },
+  
+{
+    "id": "aero-chase",
+    "name": "AeroChase",
+    "poster": "Image-not-found.png",
+    "registerURL": "#",
+    "description": "In this exciting drone racing event, teams will be formed with the primary objective of designing, building, and customizing their own drones from scratch. Each team will be responsible for not only constructing the drone but also ensuring it meets the performance and technical specifications required to excel in various competitions like Ring of fire",
+    "tagline":"Soar to Victory : Where Innovation Meets Flight",
+    "prizePool": 0,
+    "mode": "offline",
+    "club": "Space Exploration Society",
+    "rulebook":"#",
+    "location": "TBD",
+    "POCs":[
+       {
+         "name": "Anaay Sahu",
+         "contact": "9717673798"
+       },
+       {
+         "name": "Shashank Yadav",
+         "contact": "8817877625"
+       } 
+    ]
+  },
+
+{
+"id": "starlight-snapshots",
+    "name": "Starlight Snapshots",
+    "poster": "Image-not-found.png",
+    "registerURL": "#",
+    "description": "Step into the realm of stars and celestial wonders! In this online astrophotography competition, we invite you to showcase your talent by capturing the breathtaking beauty of the night sky, celestial bodies, and cosmic phenomena. Whether it’s the stunning sweep of the Milky Way, a close-up of the moon’s surface, or the mesmerizing trails of stars in long-exposure shots, use your creativity and technical prowess to capture space like never before.\nUnveil the mysteries of the universe through your lens—where every shot tells a story of the cosmos.",
+    "tagline":"Capturing Cosmos, Picturing Universe", 
+    "prizePool": 0,
+    "mode": "online",
+    "club": "Space Exploration Society",
+    "rulebook":"#",
+    "location": "TBD",
+    "POCs":[
+       {
+         "name": "Snehal Suhane",
+         "contact": "9406543992"
+       },
+       {
+         "name": "Kushagra Katare",
+         "contact": "6260773546"
+       } 
+    ]
+  },
+
+
+{
+    "id": "v_verse",
+    "name": "Virtual Verse",
+    "poster": "Image-not-found.png",
+    "registerURL": "#",
+    "description": "Virtual Verse hints at offline VR games by SES, where virtual experiences come to life. It's a dream realized, merging fantasy with technology for immersive play. Players step into VR worlds crafted by SES, blurring the lines between reality and fiction. Led by innovative minds, this project promises to redefine gaming experiences, offering a surreal journey beyond traditional gameplay.",
+    "tagline":"Step Into Fantasy—Where Reality Meets the Virtual Dream!",
+    "prizePool": 0,
+    "mode": "offline",
+    "club": "Space Exploration Society",
+    "rulebook":"#",
+    "location": "TBD",
+    "POCs":[
+       {
+         "name": "Aditya Jha",
+         "contact": "7439879074"
+       },
+       {
+         "name": "Ankit Rath",
+         "contact": "9304094370"
+       } 
+    ]
+  },
+
+
+{
+    "id": "lockout",
+    "name": "Lockout Tournament",
+    "poster": "Image-not-found.png",
+    "registerURL": "#",
+    "description": "Welcome to the Lockout Tournament 3.0 by Ingenuity! Get ready for intense one-on-one programming battles where participants tackle randomly generated problems, earning points to advance while winners move on and losers are eliminated. With odd participant counts, the highest-rated Codeforces member will receive a special promotion. You can switch programming languages freely during the tournament. Join us during MERAZ for an electrifying display of programming prowess. Register now and let your ingenuity shine!",
+    "tagline": "",
+    "prizePool": 0,
+    "mode": "Offline",
+    "club": "Ingenuity",
+    "rulebook": "#",
+    "location": "IIT Bhilai",
+    "POCs": [
+        {
+            "name": "Koosh Gupta",
+            "contact": "8250213794"
+        },
+        {
+            "name": "Priyanshu Kishore",
+            "contact": "7363971979"
+        }
+    ]
+},
+
+
+{
+    "id": "codehunt",
+    "name": "CodeHunt",
+    "poster": "Image-not-found.png",
+    "registerURL": "#",
+    "description": "Welcome to CodeHunt by Ingenuity! Get ready for an exhilarating journey filled with intense  team programming battles. Participate in a variety of thrilling challenges designed to test your coding skills, creativity, and teamwork. Expect more than just regular coding—prepare for fun, unique tasks that will push your problem-solving abilities to the limit. Compete for substantial cash prizes as you showcase your ingenuity. This is your chance to shine among the best programmers. Don’t wait—register now and unleash your skills in this unforgettable competition.",
+    "tagline": "",
+    "prizePool": 0,
+    "mode": "Online",
+    "club": "Ingenuity",
+    "rulebook": "#",
+    "location": "IIT Bhilai",
+    "POCs": [
+        {
+            "name": "Manopriya Mondal",
+            "contact": "7595807122"
+        },
+        {
+            "name": "Arpan Goswami",
+            "contact": "7439247036"
+        }
+    ]
+},
+
+
+{
+    "id": "robo_kabaddi",
+    "name": "RoboKabaddi",
+    "poster": "Image-not-found.png",
+    "registerURL": "#",
+    "description":"RoboKabaddi is a robotic combat event where robots enter the opposing team's  arena to score points by retrieving objects based on their distance from the goal. The farther the object is from the robot's home arena, the more points it earns. To score, the robot must successfully return the object to its arena without being intercepted or \"tagged out\" by the opposing team's bot.",
+    "tagline":"Fast, Fearless and Techy Tackles",
+    "prizePool": 0,
+    "mode": "offline",
+    "club": "The Epsilon Club",
+    "rulebook":"#",
+    "location": "TBD",
+    "POCs":[
+       {
+         "name": "HarsH Katole",
+         "contact": "7773945223"
+       },
+       {
+         "name": "Anurag Jaiswal",
+         "contact": "7355971516"
+       },
+       {
+         "name": "Khushi Sharma",
+         "contact": "7976281858"
+       } 
+    ]
+  },
+
+
+{
+    "id": "pick_and_place",
+    "name": "Pick and Place Robotic Arm",
+    "poster": "Image-not-found.png",
+    "registerURL": "#",
+    "description":"",
+    "tagline":"Fast, Fearless and Techy Tackles",
+    "prizePool": 0,
+    "mode": "offline",
+    "club": "The Epsilon Club",
+    "rulebook":"#",
+    "location": "TBD",
+    "POCs":[
+       {
+         "name": "Anaay Sahu",
+         "contact": "9717673798"
+       },
+       {
+         "name": "Shavaneeth Gourav",
+         "contact": "8639423179"
+       },
+       {
+         "name": "Raj Mohammad",
+         "contact": "7985378709"
+       } 
+    ]
+  },
+
+
+
+
+{
+    "id": "telekinesis",
+    "name": "Telekinesis",
+    "poster": "Image-not-found.png",
+    "registerURL": "#",
+    "description": "Telekinesis is not just your ordinary gaming event. It's a mind-bending experience where you get to play the game using only the power of your mind! With the help of an EEG headband-powered Brain-Computer Interface, you'll tap into your brain's potential and unleash your telekinetic abilities to play games like Brain Breakout, Mind Pong, and many more. Simply put on the EEG headband, focus your mind, and watch as your thoughts translate into actions on the screen. No controllers are needed - just your brainpower! Plus, each game session lasts for 10 minutes, giving you plenty of time to test your telekinetic skills.",
+    "tagline": "Unlock the Power of Your Mind: Game Beyond Limits!",
+    "prizePool": 0,
+    "mode": "Offline",
+    "club": "DSAI Club",
+    "rulebook": "#",
+    "location": "IIT Bhilai",
+    "POCs": [
+        {
+            "name": "Kinshuk Gupta",
+            "contact": "9479003023"
+        },
+        {
+            "name": "Kesav Patneedi",
+            "contact": "9014041996"
+        }
+    ]
+},
+
+
+ {
+    "id": "Lets-Get-Hacked",
+    "name": "Lets-Get-Hacked",
+    "poster": "Image-not-found.png",
+    "registerURL": "#",
+    "description": " We will be hacking as many devices as possible of those who attend the session, And then we will be explaining how we did it and how to stay protected from these sort of attacks in the future. ( We still can't guarantee that all the devices will be hacked or affected.)",
+    "Tagline": "Beware !!! You might get Hacked 😈",
+    "prizePool": 0,
+    "mode": "Offline",
+    "club": "Spectre",
+    "Rulebook":"#",
+    "location": "IIT Bhilai",
+    "POCs":[
+       {
+         "name": "Sumanth Guptha",
+         "contact": "8919945608"
+       },
+       {
+         "name": "Aryan Verma",
+         "contact": "8448068999"
+       } 
+    ]
+  },
+
+
+{
+    "id": "cyberquest",
+    "name": "CyberQuest : Treasure Hunt",
+    "poster": "Image-not-found.png",
+    "registerURL": "#",
+    "description":"Dive into the world of cryptography and blockchain with CipherQuest, a high-stakes treasure hunt. Solve puzzles, crack codes, and uncover clues in a race to the final treasure. Featuring challenges in cryptography, smart contracts, and cybersecurity, this event is the ultimate test for tech enthusiasts eager to push their skills to the limit.",
+    "tagline":"Crack the Code, Claim the Gold!",
+    "prizePool": 0,
+    "mode": "offline",
+    "club": "Blockchain at IIT Bhilai & Spectre",
+    "rulebook":"#",
+    "location": "TBD",
+    "POCs":[
+       {
+         "name": "Putla theophila",
+         "contact": "9640348714"
+       },
+       {
+         "name": "Sumanth Guptha",
+         "contact": "8919945608"
+       },
+       {
+         "name": "Aryan Verma",
+         "contact": "8448068999"
+       } 
+    ]
+  },
+
+{
+    "id": "pitchblock",
+    "name": "PitchBlock",
+    "poster": "Image-not-found.png",
+    "registerURL": "#",
+    "description":"PitchBlock invites teams to present their innovative tech product ideas or startup concepts. While we are excited to see blockchain and Web3-based solutions, we also welcome a wider range of tech-focused projects, making it easier for everyone to participate. Judging will focus on creativity, feasibility, and business potential, with extra points for blockchain applications. Whether you’re a blockchain pro or just starting, PitchBlock is your opportunity to pitch your vision to industry experts and win exciting prizes!",
+    "tagline":"Vision to Venture—Lead Web3!",
+    "prizePool": 0,
+    "mode": "offline",
+    "club": "Blockchain at IIT Bhilai & Entrepreneurship-Cell",
+    "rulebook":"#",
+    "location": "TBD",
+    "POCs":[
+       {
+         "name": "Vasu Garg",
+         "contact": "9084690147"
+       },
+       {
+         "name": "Amay Dixit",
+         "contact": "7217627792"
+       } 
+    ]
+  }
+  
+]
+
+

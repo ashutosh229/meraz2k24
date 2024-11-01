@@ -1,0 +1,42 @@
+{
+	"/": [
+		"src/routes/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/about": [
+		"src/routes/+layout.js"
+	],
+	"/contact": [
+		"src/routes/+layout.js"
+	],
+	"/events": [
+		"src/routes/+layout.js"
+	],
+	"/events/[type]": [
+		"src/routes/events/[type]/+page.server.js",
+		"src/routes/+layout.js"
+	],
+	"/events/[type]/[event]": [
+		"src/routes/events/[type]/[event]/+page.server.js",
+		"src/routes/+layout.js"
+	],
+	"/sponsors": [
+		"src/routes/+layout.js"
+	],
+	"/startup": [
+		"src/routes/+layout.js"
+	],
+	"/startup/[event]": [
+		"src/routes/startup/[event]/+page.server.js",
+		"src/routes/+layout.js"
+	],
+	"/timeline": [
+		"src/routes/+layout.js"
+	],
+	"/tnc": [
+		"src/routes/+layout.js"
+	],
+	"/wip": [
+		"src/routes/+layout.js"
+	]
+}

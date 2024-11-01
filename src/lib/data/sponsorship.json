@@ -1,0 +1,104 @@
+[
+  {
+    "title": "Sponsor",
+    "card_width": 28,
+    "card_height": 20,
+    "entries": [
+      {
+        "name": "Bank of Baroda",
+        "logo": "BOB.jpg"
+      },
+      {
+        "name": "IBITF",
+        "logo": "ibitf.webp"
+      }
+    ]
+  },
+  {
+    "title": "Sustainability Partner",
+    "card_width": 28,
+    "card_height": 20,
+    "entries": [
+      {
+        "name": "ABIS",
+        "logo": "abis.png"
+      }
+    ]
+  },
+  {
+    "title": "Event Sponsor",
+    "card_width": 28,
+    "card_height": 20,
+    "entries": [
+      {
+        "name": "Career Launcher",
+        "logo": "career-launcher.png"
+      }
+    ]
+  },
+  {
+    "title": "Beauty Partner",
+    "card_width": 28,
+    "card_height": 20,
+    "entries": [
+      {
+        "name": "Aishwarya's Makeover Salon",
+        "logo": "aishwarya-salon.jpeg"
+      }
+    ]
+  },
+  {
+    "title": "Digital Partner",
+    "card_width": 28,
+    "card_height": 20,
+    "entries": [
+      {
+        "name": "UNSTOP",
+        "logo": "unstop.jpeg"
+      }
+    ]
+  },
+  {
+    "title": "Other Sponsors",
+    "card_width": 28,
+    "card_height": 20,
+    "entries": [
+      {
+        "name": "Slick",
+        "logo": "Slick.png"
+      },
+      {
+        "name": "Stories by Inside Me",
+        "logo": "Stories by Inside me.jpg"
+      },
+      {
+        "name": "Crazy Cakes and Bakers",
+        "logo": "ccb.jpeg"
+      },
+      {
+        "name": "Gigmakers",
+        "logo": "gigmakers.webp"
+      },
+      {
+        "name": "Hyderabad Perls",
+        "logo": "hydrabad.jpg"
+      },
+      {
+        "name": "Kaksha Cafe",
+        "logo": "kaksha.jpeg"
+      },
+      {
+        "name": "Kavazilla Hospitality",
+        "logo": "kawa.jpeg"
+      },
+      {
+        "name": "Street Foods of Bharat",
+        "logo": "street.jpeg"
+      },
+      {
+        "name": "Bistro",
+        "logo": "bistro.jpeg"
+      }
+    ]
+  }
+]
